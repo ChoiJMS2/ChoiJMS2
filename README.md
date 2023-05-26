@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+<a href="[링크](https://james-choi88.tistory.com/)" target="_blank"><img src="https://img.shields.io/badge/tistory-000000?style=social&logo=로고&logoColor=로고색상"/></a>
 <!--
 **ChoiJMS2/ChoiJMS2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
