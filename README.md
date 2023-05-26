@@ -3,6 +3,10 @@
 <a href="[링크](https://james-choi88.tistory.com/)" target="_blank"><img src="https://img.shields.io/badge/blogger-FF5722?style=social&logo='https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Ftc61f%2FbtseGWwjM0C%2FD4Su9TE8awMKMdyhstKAO0%2Fimg.jpg'&logoColor=000000 "/></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChoiJMS2&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChoiJMS2&hide_progress=true)](https://github.com/ChoiJMS2)
+
+
 <!--
 **ChoiJMS2/ChoiJMS2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
