@@ -4,8 +4,9 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChoiJMS2&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChoiJMS2&hide_progress=true)](https://github.com/ChoiJMS2)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChoiJMS2&layout=donut)](https://github.com/ChoiJMS2)
 
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ChoiJMS2&theme=nord)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--
 **ChoiJMS2/ChoiJMS2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
